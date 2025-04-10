@@ -10,3 +10,7 @@ Any technical issues, ideas, bugs in course materials, contribution ideas - add 
 week01 Introduction in RecSys
 - Lecture: Introduction
 - Seminar: User2user CF
+
+week02 Matrix Factorization
+- Lecture: Matrix Factorization
+- Seminar: SVD, Funk SVD
