@@ -14,3 +14,7 @@ week01 Introduction in RecSys
 week02 Matrix Factorization
 - Lecture: Matrix Factorization
 - Seminar: SVD, Funk SVD
+
+week03 Neural RecSys, part 1
+- Lecture: Neural RecSys
+- Seminar: Two tower model
