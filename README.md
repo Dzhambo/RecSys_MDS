@@ -18,3 +18,7 @@ week02 Matrix Factorization
 week03 Neural RecSys, part 1
 - Lecture: Neural RecSys
 - Seminar: Two tower model
+
+week04 Neural RecSys, part 2
+- Lecture: Sequential Neural RecSys
+- Seminar: Bert4Rec, SASRec
